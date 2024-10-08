@@ -1,0 +1,34 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore PyCharm settings
+.idea/
+
+# Ignore Python virtual environments
+pythonProject/lib/
+pythonProject/bin/
+pythonProject/include/
+bin/
+.venv/
+lib/
+share/
+pythonProject/share/
+
+
+# Ignore your old files
+unused_folder/
+cdr/
+Cisco CIDR/
+collabedge_set_to_0/
+etc/
+forMeOnly/
+new_set_24_May/
+old scripts/
+vectors/
+cisco_ip_range.py
+dataCollection_noLabel.py
+
